@@ -1,7 +1,14 @@
+
 add anothor marketing section0
 add anothor marketing section1
 add anothor marketing section2
 add anothor marketing section3
 add anothor marketing section4
 add footer note
-2024 is config
+2025 is config
+
+hay this is git
+one more bug detected and fixed
+
+2024 footer added..
+
