@@ -1,1 +1,2 @@
 hay this is git
+one bug fixed for file1.txt
